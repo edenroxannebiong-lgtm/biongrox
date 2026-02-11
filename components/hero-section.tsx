@@ -9,7 +9,7 @@ import { AnimatedGroup } from '@/components/ui/animated-group'
 import { HeroHeader } from './header'
 import { Variants, Transition } from 'framer-motion'
 
-// ✅ Typed variants for Framer Motion
+
 const itemVariants: Variants = {
   hidden: { opacity: 0, y: 12 },
   visible: {
