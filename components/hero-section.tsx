@@ -54,7 +54,7 @@ export default function HeroSection() {
               }}
               className="mask-b-from-35% mask-b-to-90% absolute inset-0 top-56 -z-20 lg:top-32"
             >
-              {/* Animated content */}
+              <div></div>
             </AnimatedGroup>
 
             <div className="mx-auto max-w-7xl px-6">
