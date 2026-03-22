@@ -7,8 +7,8 @@ export default function Features() {
         <section className="bg-zinc-50 py-16 md:py-32 dark:bg-transparent">
             <div className="@container mx-auto max-w-5xl px-6">
                 <div className="text-center">
-                    <h2 className="text-balance text-4xl font-semibold lg:text-5xl">Biong Roxdump</h2>
-                    <p className="mt-4">Courage over Comfort, Focus, Breathe, and Achieve.</p>
+                    <h2 className="text-balance text-4xl font-semibold lg:text-5xl">Biong Eden Roxanne</h2>
+                    <p className="mt-4">Bachelor of Science in Information Technology</p>
                 </div>
                 <Card className="@min-4xl:max-w-full @min-4xl:grid-cols-3 @min-4xl:divide-x @min-4xl:divide-y-0 mx-auto mt-8 grid max-w-sm divide-y overflow-hidden shadow-zinc-950/5 *:text-center md:mt-16">
                     <div className="group shadow-zinc-950/5">
@@ -20,7 +20,7 @@ export default function Features() {
                                 />
                             </CardDecorator>
 
-                            <h3 className="mt-6 font-medium">Customizable</h3>
+                            <h3 className="mt-6 font-medium">AMA Fairview College</h3>
                         </CardHeader>
 
                         <CardContent>
@@ -54,7 +54,7 @@ export default function Features() {
                                 />
                             </CardDecorator>
 
-                            <h3 className="mt-6 font-medium">Powered By AI</h3>
+                            <h3 className="mt-6 font-medium">AMA Computer College</h3>
                         </CardHeader>
 
                         <CardContent>
